@@ -2,7 +2,7 @@
 
 ## Note
 
-This project is intended for educational, prototyping, and research use only. It is not designed for operational, military, procurement, legal, or safety-critical decision making. It uses mock and publicly generated data only. It does not contain or process any proprietary or sensitive information or concepts.
+This project is intended for educational and prototyping use only. It is not designed for operational, military, procurement, legal, or safety-critical decision making. It uses mock and publicly generated data only. It does not contain or process any proprietary or sensitive information or concepts.
 
 The Automated Intelligence Briefing Tool is an experimental AI system designed to transform unstructured source material into structured intelligence-style reports.
 
